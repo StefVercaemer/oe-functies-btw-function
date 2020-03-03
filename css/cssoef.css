@@ -1,0 +1,24 @@
+body{
+  line-height: 2em;
+}
+
+.input {
+    margin: 25px; 
+    overflow: hidden; 
+    padding: 30px;  
+    border : 1px solid green;    
+  }
+
+  label {  
+    display: inline-block;  
+    width: 100px;
+   }
+   
+   button {
+     margin-left:35px;
+   }
+
+   .feedback {
+      padding-left:35px;
+      padding-top: 15px;   
+    }
